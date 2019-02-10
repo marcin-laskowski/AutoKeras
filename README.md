@@ -2,7 +2,7 @@
 
 AutoKeras is open source software library for automated machine learning (AutoML).
 
-## INSTALATION
+## INSTALLATION
 To install the package, please use the pip installation as follows:
 ```
 pip install autokeras
